@@ -17,9 +17,22 @@ Solve riddles, collect strange items, and uncover the hidden treasure.
 ## How to Run
 
 ```bash
+git clone https://github.com/brittneyleighb/treasure-hunt.git
+cd treasure-hunt
 chmod +x treasure_hunt.sh
 ./treasure_hunt.sh
 ```
+
+Run Instantly (No Install)
+
+```bash
+curl -s https://raw.githubusercontent.com/brittneyleighb/treasure-hunt/main/treasure_hunt.sh | bash
+```
+
+⚠️ Only run scripts this way from trusted sources.
+
+````
+Works best on Linux, macOS, or WSL (Windows Subsystem for Linux)
 
 ## Gameplay
 

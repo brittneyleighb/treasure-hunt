@@ -31,7 +31,6 @@ curl -s https://raw.githubusercontent.com/brittneyleighb/treasure-hunt/main/trea
 
 ⚠️ Only run scripts this way from trusted sources.
 
-````
 Works best on Linux, macOS, or WSL (Windows Subsystem for Linux)
 
 ## Gameplay

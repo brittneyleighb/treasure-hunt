@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+
+# nano / editor backups
+*.swp
+*.bak
+
+# logs
+*.log
+
+# environment files (IMPORTANT)
+.env
+
+# compiled / temp
+*.out

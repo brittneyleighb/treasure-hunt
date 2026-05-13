@@ -4,8 +4,8 @@ A retro-style terminal adventure game written in Bash.
 
 ## Overview
 
-You wake up on a mysterious island with only a torn map.
-Solve riddles, collect strange items, and uncover the hidden treasure.
+You wake up on a mysterious island with a map and "X marks the spot."
+Solve riddles, collect items, and find the hidden treasure.
 
 ## Features
 

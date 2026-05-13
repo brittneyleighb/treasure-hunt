@@ -10,7 +10,9 @@ Solve riddles, collect items, and find the hidden treasure.
 ## Demo
 
 ![Intro](treasure_hunt.png)
+
 ![Menu](treasure_hunt2.png)
+
 ![Gameplay](treasure_hunt3.png)
 
 ## Features

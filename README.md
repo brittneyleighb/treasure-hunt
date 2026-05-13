@@ -51,12 +51,12 @@ Explore the island:
 * ASCII rendering
 * Game loop + state management
 
-## Future Improvements
+## Future Improvement Ideas
 
 * Save/load system
 * Multiple endings
 * Expanded puzzles
-* More animations
+* ASCII art/animations
 
 ---
 

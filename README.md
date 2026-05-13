@@ -7,6 +7,12 @@ A retro-style terminal adventure game written in Bash.
 You wake up on a mysterious island with a map and "X marks the spot."
 Solve riddles, collect items, and find the hidden treasure.
 
+## Demo
+
+![Intro](treasure_hunt.png)
+![Menu](treasure_hunt2.png)
+![Gameplay](treasure_hunt3.png)
+
 ## Features
 
 * Interactive story with multiple locations
